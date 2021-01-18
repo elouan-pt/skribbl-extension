@@ -15,13 +15,13 @@
       "matches": [
         "https://skribbl.io/*"
       ],
-      "js": ["content.js"]
+      "js": [ "content.js" ]
     }
   ],
   "permissions": [
     "https://www.enchantedlearning.com/*"
   ],
   "background": {
-    "scripts": ["background.js"]
+    "scripts": [ "background.js" ]
   }
 }
